@@ -5,3 +5,6 @@ Gearbox Fault Diagnosis Data set include the vibration dataset recorded by using
 1) Healthy condition and
 
 2) Broken Tooth Condition
+
+Use Feature_code to preprocess the data and create features for the machine learning algorithm. 
+Use classification code to train the model and model analysis to select the best model. 
